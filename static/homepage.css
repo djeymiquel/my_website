@@ -1,0 +1,23 @@
+.homepage-container {
+  height: 100vh;
+  max-width: 600px;
+  text-align: left;
+}
+
+#homepage p {
+  color: white;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+#homepage h1 {
+  font-size: 36px;
+  margin-top: 60px;
+  color: white;
+
+#homepage-2 p {
+  color: white;
+}
+
+
+

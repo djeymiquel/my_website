@@ -1,0 +1,15 @@
+.about-container {
+  height: 100vh;
+  text-align: left;
+  max-width: 600px;
+.strong {
+  font-size: 24px;
+}
+
+.about-paragraph {
+  font-size: 20px;
+  line-height: 32px;
+  color: green;
+  margin-bottom: 60px;
+}
+
