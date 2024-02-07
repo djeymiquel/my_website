@@ -19,10 +19,7 @@
         <!-- Use Jinja to put a title here. --> 
         <title> {{ title }} </title>
     </head>
-
-
     <body> 
-
       <!-- Use a class for css to tap into this element for styling-->
       <header>  
         <nav class="navbar">
@@ -38,16 +35,16 @@
       </header>
 
       <!-- Include section content using Jinja's include directive -->
-      <main>
-        <div class="html-container">
+      <main class="flex-container">
+        <div class="content">
           {% block content %}
           {% endblock %}
         </div>
       </main>
 
+      <!-- Footer section -->
       <footer>
         <p>Djey Miquel® 2023</p>
       </footer>
-
     </body>
 </html>

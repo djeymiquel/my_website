@@ -1,23 +1,16 @@
-.homepage-container {
-  height: 100vh;
-  max-width: 600px;
-  text-align: left;
+.homepage-container h1 {
+  color: white;
+  font-size: 36px;
 }
 
-#homepage p {
-  color: white;
+.paragraph1 {
+  color: green;
   font-size: 20px;
   line-height: 32px;
 }
 
-#homepage h1 {
-  font-size: 36px;
-  margin-top: 60px;
+.test {
   color: white;
-
-#homepage-2 p {
-  color: white;
+  font-size: 20px;
+  line-height: 32px;
 }
-
-
-
