@@ -40,4 +40,3 @@ def certificates():
     title = "Certificates"
     return render_template('certificates.html', title=title)
 
-
